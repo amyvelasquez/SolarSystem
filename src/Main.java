@@ -1,8 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int Sun;
-        int Moon;
-        int Planets;
-
+        SolarSystem FactorX = new SolarSystem();
+        FactorX.Sun =1;
+        FactorX.Moon=3;
+        FactorX.Planets=2;
+        
     }
 }
